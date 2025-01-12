@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.69200782.css",
-    "main.js": "/my-app/static/js/main.dddf0fe6.js",
-    "static/js/453.21150f4b.chunk.js": "/my-app/static/js/453.21150f4b.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.69200782.css.map": "/my-app/static/css/main.69200782.css.map",
-    "main.dddf0fe6.js.map": "/my-app/static/js/main.dddf0fe6.js.map",
-    "453.21150f4b.chunk.js.map": "/my-app/static/js/453.21150f4b.chunk.js.map"
+    "main.css": "/word-modifier/static/css/main.69200782.css",
+    "main.js": "/word-modifier/static/js/main.10705a79.js",
+    "static/js/453.21150f4b.chunk.js": "/word-modifier/static/js/453.21150f4b.chunk.js",
+    "index.html": "/word-modifier/index.html",
+    "main.69200782.css.map": "/word-modifier/static/css/main.69200782.css.map",
+    "main.10705a79.js.map": "/word-modifier/static/js/main.10705a79.js.map",
+    "453.21150f4b.chunk.js.map": "/word-modifier/static/js/453.21150f4b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69200782.css",
-    "static/js/main.dddf0fe6.js"
+    "static/js/main.10705a79.js"
   ]
 }
