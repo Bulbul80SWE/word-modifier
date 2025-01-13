@@ -1,6 +1,6 @@
 <<<<<<< HEAD
-# TextUtils-React
-TextUtils is a text-based utility which can be used to manipulate your text in the way you want.
+# WordModifier-React
+WordModifier is a text-based utility which can be used to manipulate your text in the way you want.
 =======
 # Getting Started with Create React App
 
